@@ -20,3 +20,16 @@ The city of New York is sharing information about the [taxi rides](https://www1.
 Tools used:
 - Pandas
 - Matplotlib
+
+## [BTC Price Prediction](https://github.com/PrayForSnow/Data-Analysis-Projects/tree/BTC-price-prediction)
+Exploratory Analysis of the BTC-prices and comparison vs. MSCI World
+Prediction of the stock price based on previous values
+Tools:
+- Jupyter Notebook
+- Python
+- Pandas
+- Matplotlib
+  - Sklearn
+  - Preprocessing
+  - Model Selection
+  - Linear Regression
