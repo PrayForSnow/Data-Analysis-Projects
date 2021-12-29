@@ -22,9 +22,10 @@ Tools used:
 - Matplotlib
 
 ## [BTC Price Prediction](https://github.com/PrayForSnow/Data-Analysis-Projects/tree/BTC-price-prediction)
-Exploratory Analysis of the BTC-prices and comparison vs. MSCI World
+Exploratory Analysis of the BTC-prices and comparison vs. MSCI World. 
 Prediction of the stock price based on previous values
-Tools:
+Data downloaded at Yahoo Finance.
+Tools used in course of the project:
 - Jupyter Notebook
 - Python
 - Pandas
