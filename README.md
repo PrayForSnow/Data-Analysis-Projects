@@ -1,6 +1,6 @@
 # Data Analysis Projets
-Here I want to show my experiences of projects done in the past in the field of 'Data Analysis' as well as basic 'Data Science'.
-Primarly I show here **jupiter-notebooks**, nevertheless I will probaply share additional tools I use:
+Here I want to show my experiences of projects done in the past in the field of 'Data Analysis' as well as basic in 'Machine Learning'.
+Primarly I show here **jupiter-notebooks**, nevertheless I will perhaps share projects with additional tools I use:
 - Python
 - Tableau
 - Excel
