@@ -3,5 +3,6 @@ Based on the Data shared by the German RKI on the Covid19 pandemic an analysis w
 Tool used:
 - Tableau Desktop
 
+
 Dashboard created:  
 ![alt text](https://github.com/PrayForSnow/Data-Analysis-Projects/blob/RKI_Tableau/Tableau%20Dashboard.png "Tableau Dashboard")
