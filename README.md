@@ -15,6 +15,15 @@ Tools used:
 - Pandas
 - Matplotlib
 
+## Analysis of German RKIs COVID data with Tableau
+Based on the Data shared by the German RKI on the Covid19 pandemic an analysis was performed.  
+Tool used:
+- Tableau Desktop
+
+Dashboard created:  
+![alt text](https://github.com/PrayForSnow/Data-Analysis-Projects/blob/RKI_Tableau/Tableau%20Dashboard.png "Tableau Dashboard")
+
+
 ## [NY Taxi Rides](https://github.com/PrayForSnow/Data-Analysis-Projects/tree/NY-Taxi-Rides)
 The city of New York is sharing information about the [taxi rides](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page). Here the the most valueable spots for taxi vendors were identifyed.
 Tools used:
@@ -34,3 +43,8 @@ Tools used in course of the project:
   - Preprocessing
   - Model Selection
   - Linear Regression
+
+## [BTC Analysis with Tableau](https://github.com/PrayForSnow/Data-Analysis-Projects/tree/BTC_Tableau)
+Exploratory Analysis with Tableau
+Example Dashboard
+![alt text](https://github.com/PrayForSnow/Data-Analysis-Projects/blob/BTC_Tableau/Comparison%20BTC%20vs.%20ACWI.png "Tableau Dashboard BTC vs. ACWI")
