@@ -6,6 +6,7 @@ Primarly I show here **jupiter-notebooks**, nevertheless I will perhaps share pr
 - Excel
 - SQL
 - Jupyter Notebooks
+![Status Bavaria](https://github.com/PrayForSnow/Data-Analysis-Projects/blob/RKI/status%20bayern.png "Overview Infections and Deceased")
 
 
 ## [Analysis of German RKIs COVID data](https://github.com/PrayForSnow/Data-Analysis-Projects/tree/RKI)
