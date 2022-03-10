@@ -5,4 +5,4 @@ Tool used:
 
 
 Dashboard created:  
-![alt text](https://github.com/PrayForSnow/Data-Analysis-Projects/blob/RKI_Tableau/Tableau%20Dashboard.png "Tableau Dashboard")
+![alt text](https://github.com/PrayForSnow/Data-Analysis-Projects/blob/RKI_Tableau/Dashboard%20Covid%20Germany.png "Tableau Dashboard")
