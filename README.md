@@ -40,7 +40,7 @@ Tools used in course of the project:
 - Python
 - Pandas
 - Matplotlib
-  - Sklearn
+- Sklearn
   - Preprocessing
   - Model Selection
   - Linear Regression
